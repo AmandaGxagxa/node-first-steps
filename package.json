@@ -1,0 +1,24 @@
+{
+  "name": "first-steps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greet.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "figlet": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmandaGxagxa/-node-first-steps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmandaGxagxa/-node-first-steps/issues"
+  },
+  "homepage": "https://github.com/AmandaGxagxa/-node-first-steps#readme"
+}
